@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+   font-family: 'Open Sans', sans-serif;
+   color: white;
+   background-image: url(https://mcdn.wallpapersafari.com/335/75/22/4eTX20.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center center;
+   -webkit-background-size:cover;
+   -moz-background-size:cover;
+   -o-background-size:cover;
+   background-size: cover;
+}
+div {
+   display: flex;
+   justify-content: space-between;
+   font-size: 16px;
+
+}
+p{
+    display: inline-block;
+    padding: 0 5px;
+}
+.greeting {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    font-size: 33px;
+}
+.Galaxy{
+    font-size: 25px;
+}
